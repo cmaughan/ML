@@ -1,0 +1,4 @@
+SciPy from here
+http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipy
+
+pip3 install --upgrade jupyter matplotlib numpy pandas scipy scikit-learn
