@@ -1,4 +1,7 @@
 SciPy from here
 http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipy
+http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy
 
-pip3 install --upgrade jupyter matplotlib numpy pandas scipy scikit-learn
+Maybe better with anaconda?
+
+pip3 install --upgrade jupyter matplotlib pandas scikit-learn

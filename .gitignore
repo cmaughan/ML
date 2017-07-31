@@ -1,3 +1,5 @@
 env/**/*
 *.whl
 *.swp
+datasets
+__pycache__
